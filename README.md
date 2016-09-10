@@ -1,4 +1,4 @@
-# ExtendedLocalConnect
+﻿# ExtendedLocalConnect
 Пример использования:
 var extendedLocalConnection:ExtendedLocalConnect = new ExtendedLocalConnect();
 var client:ExtendedClient = new ExtendedClient(this);

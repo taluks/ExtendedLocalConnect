@@ -1,4 +1,7 @@
 ﻿# ExtendedLocalConnect
+ 
+Описание задачи https://habrahabr.ru/post/246119/
+
 Пример инициализации:
 
     var extendedLocalConnection:ExtendedLocalConnect = new ExtendedLocalConnect();
